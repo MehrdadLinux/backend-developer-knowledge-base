@@ -144,7 +144,21 @@ It is a structured reference that covers the **core concepts, trade-offs, and re
 - SLO, SLA, SLI concepts
 
 ---
+### 14. Tools
 
+This section is a **practical reference of tools** that are commonly useful for Backend Developers.
+
+The purpose of this section is not to teach tools in detail, but to:
+- Provide a curated list of widely used backend-related tools
+- Explain what each tool is used for at a high level
+- Help developers choose the right tool for a specific problem
+
+Each tool is documented in its own directory with a dedicated `README.md`
+describing its purpose, typical use cases, and limitations.
+
+This section complements conceptual knowledge and is intended to support
+real-world debugging, observability, performance analysis, and system operations.
+---
 ## 🧠 Philosophy
 
 - Tools change, **principles do not**
